@@ -1,1 +1,1 @@
-# async-await-pratica
+# Funções assíncronas em JavaScript.
